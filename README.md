@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Universidad Autónoma de Manizales**
 
-- 🌱 I’m currently learning **Angular, Laravel**
+- 🌱 I’m currently learning **Experience in Software Development**
 
 - 🤝 I’m looking for help with **Mobile development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xSam08?tab=repositories](https://github.com/xSam08?tab=repositories)
 
-- 💬 Ask me about **Lumen, PHP, Python and Java**
+- 💬 Ask me about **Angular, Lumen-Laravel, PHP and JS & TS**
 
-- 📫 How to reach me **samoluo8@gmail.com**
+- 📫 How to reach me **samuel.osunam@gmail.com**
 
 - ⚡ Fun fact **I love videogames.**
 
